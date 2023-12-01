@@ -1,8 +1,5 @@
-header{
-    background-color: rgb(192, 226, 43);
-}
 body {
-    background-color: aquamarine;
+    background-color: #333;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -13,7 +10,7 @@ header, nav, main, footer {
 }
 
 h1, h2 {
-    color: #333;
+    color: #fff;
 }
 
 nav ul {
